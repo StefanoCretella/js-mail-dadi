@@ -22,3 +22,5 @@ Esercizio Mail
 -Controlla se l'email è presente nella lista delle email autorizzate.
 -Se l'email è presente, manda a schermo(e in console) "Accesso consentito".
 -Se l'email non è presente, manda a schermo(e in console) "Accesso negato".
+
+
